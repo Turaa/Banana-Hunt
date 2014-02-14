@@ -1,0 +1,90 @@
+/*--BODY--*/
+body {
+	background-color: #c4967f;
+}
+
+/*--WRAPPER--*/
+.wrapper {
+	margin:0 auto;
+	width:960px;
+	height:680px;
+        background-color: #f8edd7;
+	padding-top:10px;
+	border-radius:10px;
+	border:1px #000 solid;
+}
+
+canvas {
+   position: absolute;
+    top:380px;
+    bottom:10px;
+    left:0;
+    right:0;
+    margin:0 auto;
+    margin-top:50px;
+    width:900px;
+    height:500px;
+    z-index:10;
+
+}
+
+.gameheader {
+  margin:0 auto;
+  width:900px;
+ height:250px;
+  } 
+
+	
+/*--HEADLINES--*/
+h2 {    
+      font-weight:bold;
+      text-align:center;
+      font-family:"Reenie Beanie",arial,sans-serif;
+}  
+
+h4 {
+      font-weight:bold;
+      text-align:center;
+      font-family:"Reenie Beanie",arial,sans-serif;
+      font-size: 24px;
+}
+
+h5 {
+	color:#c4967f;
+	font-size: 16px;
+	padding-left: 15px;
+}
+
+p {	
+	color:#000;
+	font-size: 14px;
+	padding-left: 15px;
+}
+
+/*--MAIN NAVIGATION--*/
+.menu {
+	font-family: sans-serif; 
+	border:1px solid #f6e8ca;
+	border-width:5px 0;
+	width: 960px;
+	margin-left:190px;
+	padding:5px;
+	text-align: center;
+
+}
+.menu li {
+	display:inline;
+}
+
+.menu a {
+	display:inline-block;
+	padding:10px;
+}
+
+/*--FOOTER--*/
+#footer li {
+	display:inline;
+	font-size: 16px;
+	padding-left:5px;
+}
+
