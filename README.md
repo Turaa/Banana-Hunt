@@ -14,15 +14,15 @@
 <p>Anslut sedan till en server och öppna spelet på din webbplats www.yourdomain.com/Banana-Hunt/index.php och se så att allt fungerar.</p>
 
 <p>Så här kan spelet se ut när du är klar med installationen:
-http://www.student.bth.se/~tutu13/javascript/projekt/Banana-Hunt/index.php</p>
+http://www.student.bth.se/~tutu13/javascript/Projekt/Banana-Hunt/index.php</p>
 
 
 <h2>Konfigurera</h2>
 
 <p>För att ändra i spelet behöver du ha grundkunskaper inom HTML, Javascript och CSS.</p>
 
-</br>I main.js ändrar du funktioner, bakgrund, spelkaraktär, frukt, musik m.m.
-</br>I style.css ändrar du designen.
-</br>Filen index.php visar vad som finns på webbsidan.
-</br>Mappen "img" innehåller bilder.
-</br>Mappen "Audio" innehåller ljud.
+<p>I main.js ändrar du funktioner, bakgrund, spelkaraktär, frukt, musik m.m.</p>
+<p>I style.css ändrar du designen.</p>
+<p>Filen index.php visar vad som finns på webbsidan.</p>
+<p>Mappen "img" innehåller bilder.</p>
+<p>Mappen "Audio" innehåller ljud.</p>
