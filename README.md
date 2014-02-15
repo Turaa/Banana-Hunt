@@ -14,7 +14,7 @@
 <p>Anslut sedan till en server och öppna spelet på din webbplats www.yourdomain.com/Banana-Hunt/index.php och se så att allt fungerar.</p>
 
 <p>Så här kan spelet se ut när du är klar med installationen:
-http://www.student.bth.se/~tutu13/javascript/Projekt/Banana-Hunt/index.php</p>
+http://www.student.bth.se/~tutu13/JavaScript/Projekt/Banana-Hunt/index.php</p>
 
 
 <h2>Konfigurera</h2>
