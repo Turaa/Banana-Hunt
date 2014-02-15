@@ -11,10 +11,10 @@ Du kan installera spelet genom att:
 
 Klona det här repot "https://github.com/Turaa/Banana-Hunt.git" till din dator.
 
-Lägg mapparna och filerna på en lämplig plats i din dator och anslut dem till en server, FileZilla eller en annan driftserver fungerar bra. Öppna spelet på din webbplats www.yourdomain.com/FrancesJump/index.php och se så att allt fungerar.
+Lägg mapparna och filerna på en lämplig plats i din dator och anslut dem till en server, FileZilla eller en annan driftserver fungerar bra. Öppna spelet på din webbplats www.yourdomain.com/Banana-hunt/index.php och se så att allt fungerar.
 
 Så här kan spelet se ut när du är klar med installationen:
-http://www.student.bth.se/~najb13/javascript/projekt/frances-jump/index.php 
+http://www.student.bth.se/~tutu13/javascript/projekt/Banana-Hunt/index.php 
 
 
 
