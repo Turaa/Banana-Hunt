@@ -11,10 +11,9 @@
 
 <p>Du kan installera spelet genom att klona det här repot "https://github.com/Turaa/Banana-Hunt.git" till din dator.</p>
 
-<p>Anslut sedan till en server och öppna spelet på din webbplats www.yourdomain.com/Banana-Hunt/index.php och se så att allt fungerar.</p>
+<p>Anslut sedan till en server och öppna spelet på din webbplats www.yourdomain.com/yourfolder/index.php och se så att allt fungerar.</p>
 
-<p>Så här kan spelet se ut när du är klar med installationen:
-http://www.student.bth.se/~tutu13/JavaScript/Projekt/Banana-Hunt/index.php</p>
+<p>Så här kan spelet se ut när du är klar med installationen: http://www.student.bth.se/~tutu13/JavaScript/Projekt/index.php</p>
 
 
 <h2>Konfigurera</h2>
