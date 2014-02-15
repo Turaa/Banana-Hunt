@@ -6,12 +6,12 @@
 <p>Du styr apan med sidopils-tangenterna, "←" för förflyttning till vänster, och "→" för förflyttning till höger. </p>
 
 
-<h2>Installtion</h2>
-Du kan installera spelet genom att:
+<h2>Installation</h2>
 
-Klona det här repot "https://github.com/Turaa/Banana-Hunt.git" till din dator.
 
-Lägg mapparna och filerna på en lämplig plats i din dator och anslut dem till en server, FileZilla eller en annan driftserver fungerar bra. Öppna spelet på din webbplats www.yourdomain.com/Banana-hunt/index.php och se så att allt fungerar.
+Du kan installera spelet genom att klona det här repot "https://github.com/Turaa/Banana-Hunt.git" till din dator.
+
+Anslut sedan till en server och öppna spelet på din webbplats www.yourdomain.com/Banana-Hunt/index.php och se så att allt fungerar.
 
 Så här kan spelet se ut när du är klar med installationen:
 http://www.student.bth.se/~tutu13/javascript/projekt/Banana-Hunt/index.php 
