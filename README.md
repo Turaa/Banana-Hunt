@@ -9,20 +9,20 @@
 <h2>Installation</h2>
 
 
-Du kan installera spelet genom att klona det här repot "https://github.com/Turaa/Banana-Hunt.git" till din dator.
+<p>Du kan installera spelet genom att klona det här repot "https://github.com/Turaa/Banana-Hunt.git" till din dator.</p>
 
-Anslut sedan till en server och öppna spelet på din webbplats www.yourdomain.com/Banana-Hunt/index.php och se så att allt fungerar.
+<p>Anslut sedan till en server och öppna spelet på din webbplats www.yourdomain.com/Banana-Hunt/index.php och se så att allt fungerar.</p>
 
-Så här kan spelet se ut när du är klar med installationen:
-http://www.student.bth.se/~tutu13/javascript/projekt/Banana-Hunt/index.php 
+<p>Så här kan spelet se ut när du är klar med installationen:
+http://www.student.bth.se/~tutu13/javascript/projekt/Banana-Hunt/index.php</p>
 
 
 <h2>Konfigurera</h2>
 
-För att ändra i spelet behöver du ha grundkunskaper inom HTML, Javascript och CSS.
+<p>För att ändra i spelet behöver du ha grundkunskaper inom HTML, Javascript och CSS.</p>
 
-I main.js ändrar du funktioner, bakgrund, spelkaraktär, frukt, musik m.m.
-I style.css ändrar du designen.
-Filen index.php visar vad som finns på webbsidan.
-Mappen "img" innehåller bilder.
-Mappen "Audio" innehåller ljud.
+<p>I main.js ändrar du funktioner, bakgrund, spelkaraktär, frukt, musik m.m.</p>
+<p>I style.css ändrar du designen.</p>
+<p>Filen index.php visar vad som finns på webbsidan.</p>
+<p>Mappen "img" innehåller bilder.</p>
+<p>Mappen "Audio" innehåller ljud.</p>
